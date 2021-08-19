@@ -13,12 +13,9 @@ inglês usando a API de reconhecimento de voz</p>
 <div align="center">
 
 <p align="center">
-  <a href="#white_check_mark-Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&
-nbsp;&nbsp;
-  <a href="#globe_with_meridians-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&
-nbsp;&nbsp;&nbsp;
-  <a href="#wrench-Como-utilizar">Como Utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&
-nbsp;&nbsp;
+  <a href="#white_check_mark-Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#globe_with_meridians-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-Como-utilizar">Como Utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-Licença">Licença</a>
 </p>
 
